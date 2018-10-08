@@ -1,0 +1,414 @@
+.icones {
+    width: 24px;
+    height: 17px;
+    vertical-align: middle;
+    margin: 0px 16px 54px 20px;
+    cursor: pointer;
+    color: inherit;
+}
+
+.youtube{
+    width: 84px;
+    height: 17px;
+    vertical-align: middle;
+    margin: 0px 16px 52px 16px;
+    cursor: pointer;
+    color: inherit;
+}
+
+.example input[type=text] {
+    padding: 6.5px;
+    font-size: 17px;
+    border: 1px solid rgb(204, 204, 204);
+    width: 40%;
+    background: #f1f1f1;
+    border-radius: 2px 0 0 2px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: inset 0 1px 2px rgb(238, 238, 238);
+    margin-left: 50px;
+}
+
+.example button {
+    width: 5%;
+    padding: 9px;
+    cursor: pointer;
+    width: 65px;
+    border: 1px solid rgb(211, 211, 211);
+    background-color: rgb(248, 248, 248);
+    border-radius: 0 2px 2px 0;
+    margin: 0;
+}
+
+.example button:hover {
+    background: rgb(211, 211, 211);
+}
+
+.connect{
+    font-family: Impact, "Arial", Verdana, sans-serif;
+    color: blue;
+}
+.buttons{
+    margin-left: 180px;
+}
+
+.application{
+    width: 24px;
+    height: 17px;
+    vertical-align: middle;
+    margin: 10px 16px 16px 20px;
+    cursor: pointer;
+    color: grey;
+    margin-left: 275px;
+
+}
+
+.body {
+    border-top: 1px solid rgb(238, 238, 238);
+}
+nav {
+	color: rgb(172, 165, 165);
+}
+
+li {
+    list-style-type: none; 
+    background-position: left center;
+    padding-left: 20px;
+}
+
+.side {
+    display: inline-block;
+    border-top: 1px solid rgb(238, 238, 238);
+    border-bottom: 1px solid rgb(238, 238, 238);
+    border-right: 1px solid rgb(238, 238, 238);
+    padding: 12px 0;
+    background-color: rgb(250, 250, 250);
+}
+
+.fa fa-home{
+    margin-right: 5px;
+    padding-right: 7px;
+    margin-left: 5px;
+    padding: 1px;
+}
+ .accueil {
+    font-size: 15px;
+    font-family: Roboto, Arial, sans-serif;
+    background-color: rgba(0, 0, 0, 0.10);
+    padding: 11px 85px;
+    cursor: pointer;
+    box-sizing: border-box;
+    display: block;
+}
+.accueil:hover{
+    background-color: rgba(238, 238, 238, 0.6);
+}
+
+.Tendances{
+    font-size: 15px;
+    font-family: Roboto, Arial, sans-serif;
+    padding: 11px 85px;
+    cursor: pointer;
+    box-sizing: border-box;
+    display: block;
+}
+.Tendances:hover{
+    background-color: rgba(238, 238, 238, 0.6);
+}
+
+fa fa-history{
+    margin-right: 5px;
+    padding-right: 7px;
+    margin-left: 5px;
+    padding: 1px;
+}
+
+.Historique{
+    font-size: 15px;
+    font-family: Roboto, Arial, sans-serif;
+    padding: 11px 85px;
+    cursor: pointer;
+    box-sizing: border-box;
+    display: block;
+}
+.Historique:hover{
+    background-color: rgba(238, 238, 238, 0.6);
+}
+
+.biblio{
+    display: block;
+    border-top: 1px solid rgb(238, 238, 238);
+    border-bottom: 1px solid rgb(238, 238, 238);
+    border-right: 1px solid rgb(238, 238, 238);
+    padding: 12px 0;
+    background-color: rgb(250, 250, 250);
+    width: 18.77%;
+}
+
+h5 {
+    font-family: Roboto, Arial, sans-serif;
+    color: rgba(17, 17, 17, 0.6);
+    padding: 0px 20px 5px;
+}
+
+.music{
+    font-size: 15px;
+    font-family: Roboto, Arial, sans-serif;
+    padding: 11px 85px;
+    cursor: pointer;
+    box-sizing: border-box;
+    display: block;
+}
+
+.music:hover{
+    background-color: rgba(238, 238, 238, 0.6);
+}
+
+.sport{
+    font-size: 15px;
+    font-family: Roboto, Arial, sans-serif;
+    padding: 11px 85px;
+    cursor: pointer;
+    box-sizing: border-box;
+    display: block;
+}
+
+.sport:hover{
+    background-color: rgba(238, 238, 238, 0.6);
+}
+
+.games{
+    font-size: 15px;
+    font-family: Roboto, Arial, sans-serif;
+    padding: 11px 85px;
+    cursor: pointer;
+    box-sizing: border-box;
+    display: block;
+}
+
+.games:hover{
+    background-color: rgba(238, 238, 238, 0.6);
+}
+
+.actualités{
+    font-size: 15px;
+    font-family: Roboto, Arial, sans-serif;
+    padding: 11px 85px;
+    cursor: pointer;
+    box-sizing: border-box;
+    display: block;
+}
+
+.actualités:hover{
+    background-color: rgba(238, 238, 238, 0.6);
+}
+
+.direct{
+    font-size: 15px;
+    font-family: Roboto, Arial, sans-serif;
+    padding: 11px 85px;
+    cursor: pointer;
+    box-sizing: border-box;
+    display: block;
+}
+
+.direct:hover{
+    background-color: rgba(238, 238, 238, 0.6);
+}
+
+.degré{
+    font-size: 15px;
+    font-family: Roboto, Arial, sans-serif;
+    padding: 11px 85px;
+    cursor: pointer;
+    box-sizing: border-box;
+    display: block;
+}
+
+.degré:hover{
+    background-color: rgba(238, 238, 238, 0.6);
+}
+
+.abonnements{
+    display: block;
+    border-top: 1px solid rgb(238, 238, 238);
+    border-bottom: 1px solid rgb(238, 238, 238);
+    border-right: 1px solid rgb(238, 238, 238);
+    padding: 12px 0;
+    background-color: rgb(250, 250, 250);
+    width: 18.77%;
+}
+
+.title {
+    margin-right: 24px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-weight: 400;
+    padding: 0 24px;
+    cursor: pointer;
+    font-family: Roboto, Arial, sans-serif;
+}
+
+.abonnements:hover{
+    background-color: rgba(238, 238, 238, 0.6);
+}
+
+.autres{
+    display: block;
+    border-top: 1px solid rgb(238, 238, 238);
+    border-bottom: 1px solid rgb(238, 238, 238);
+    border-right: 1px solid rgb(238, 238, 238);
+    padding: 12px 0;
+    background-color: rgb(250, 250, 250);
+    width: 18.77%;
+}
+
+.account{
+    padding: 0px 20px 5px;
+    cursor: pointer;
+    color: rgb(39, 147, 230);
+    font-size: 15px;
+    font-family: Roboto, Arial, sans-serif;
+}
+
+.other{
+    display: block;
+    border-top: 1px solid rgb(238, 238, 238);
+    border-bottom: 1px solid rgb(238, 238, 238);
+    border-right: 1px solid rgb(238, 238, 238);
+    padding: 12px 0;
+    background-color: rgb(250, 250, 250);
+    width: 18.77%;
+}
+
+.settings{
+    display: block;
+    border-top: 1px solid rgb(238, 238, 238);
+    border-bottom: 1px solid rgb(238, 238, 238);
+    border-right: 1px solid rgb(238, 238, 238);
+    padding: 12px 0;
+    background-color: rgb(250, 250, 250);
+    width: 18.77%;
+}
+
+.paramètres{
+    font-size: 15px;
+    font-family: Roboto, Arial, sans-serif;
+    padding: 11px 85px;
+    cursor: pointer;
+    box-sizing: border-box;
+    display: block;
+}
+.paramètres:hover{
+    background-color: rgba(238, 238, 238, 0.6);
+}
+
+.des{
+    font-size: 15px;
+    font-family: Roboto, Arial, sans-serif;
+    padding: 11px 85px;
+    cursor: pointer;
+    box-sizing: border-box;
+    display: block;
+}
+.des:hover{
+    background-color: rgba(238, 238, 238, 0.6);
+}
+
+.aide{
+    font-size: 15px;
+    font-family: Roboto, Arial, sans-serif;
+    padding: 11px 85px;
+    cursor: pointer;
+    box-sizing: border-box;
+    display: block;
+}
+.aide:hover{
+    background-color: rgba(238, 238, 238, 0.6);
+}
+
+.avis{
+    font-size: 15px;
+    font-family: Roboto, Arial, sans-serif;
+    padding: 11px 85px;
+    cursor: pointer;
+    box-sizing: border-box;
+    display: block;
+}
+.avis:hover{
+    background-color: rgba(238, 238, 238, 0.6);
+}
+
+.propos{
+    display: block;
+    border-top: 1px solid rgb(238, 238, 238);
+    border-bottom: 1px solid rgb(238, 238, 238);
+    border-right: 1px solid rgb(238, 238, 238);
+    padding: 12px 0;
+    background-color: rgb(250, 250, 250);
+    width: 18.77%;
+}
+
+.souris{
+    font-family: Roboto, Arial, sans-serif;
+    color: rgba(17, 17, 17, 0.6);
+    padding: 0px 20px 5px;
+    cursor: pointer;
+}
+
+section {
+    display: inline-block;
+    text-align: justify;
+    width: 100%;
+    background-color: rgb(250, 250, 250);
+    height: 100%;
+    position: absolute;
+}
+
+.recommandations {
+    font-size: 15px;
+    font-family: Roboto, Arial, sans-serif;
+    background-color: #fafafa;
+    margin-left: 70px;
+    padding-top: 16px;
+}
+
+.contents {
+    margin-top: 24px;
+    margin-left: 71px;
+}
+
+video{
+    width:"210px";
+    height:"200px";
+    margin-bottom:24px;
+}
+
+h6{
+    color: rgba(17, 17, 17, 0.6);
+    padding: 0;
+    margin-right: auto;
+    margin-bottom: 24px;
+    font-size: 0.8rem;
+    font-family: inherit;
+    display: inline-flex;
+    background: rgba(0, 0, 0, 0);
+    cursor: pointer;
+}
+
+.mix_youtube{
+    font-size: 15px;
+    font-family: Roboto, Arial, sans-serif;
+    background-color: #fafafa;
+    margin-left: 70px;
+    padding-top: 16px;
+}
+
+.mises{
+    font-size: 15px;
+    font-family: Roboto, Arial, sans-serif;
+    background-color: #fafafa;
+    margin-left: 70px;
+    padding-top: 16px;
+}
+
